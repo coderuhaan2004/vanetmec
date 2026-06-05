@@ -1,0 +1,38 @@
+#!/bin/bash
+# ── MEC VANET run script ──────────────────────────────────────
+cd "$(dirname "$0")"   # always run from simulations/
+
+# ── Edit these paths to match your installation ───────────────
+INET_ROOT=../../../inet4.5
+SIMU5G_ROOT=../../../Simu5G-1.2.2
+VEINS_ROOT=../../../veins-veins-5.3.1
+VEINS_INET_ROOT=../../../veins-veins-5.3.1/subprojects/veins_inet
+
+# ── Binary ───────────────────────────────────────────────────
+# If you have a compiled src/, use:       ../src/myMecVanet
+# If src/ is empty (no custom C++), use:  opp_run
+BINARY=opp_run   # or ../src/myMecVanet
+
+# ── NED paths (colon-separated) ───────────────────────────────
+NED_PATH=\
+$INET_ROOT/src:\
+$SIMU5G_ROOT/src:\
+$VEINS_ROOT/subprojects/veins_inet/src/veins_inet:\
+$VEINS_ROOT/src/veins:\
+.     # ← the simulations/ folder itself (for your NED)
+
+# ── Shared libraries ──────────────────────────────────────────
+LIBS="\
+  -l$INET_ROOT/src/INET \
+  -l$SIMU5G_ROOT/src/simu5g \
+  -l$VEINS_ROOT/src/veins \
+  -l$VEINS_ROOT/subprojects/veins_inet/src/veins_inet"
+
+# ── Run ───────────────────────────────────────────────────────
+$BINARY \
+  -n "$NED_PATH" \
+  $LIBS \
+  -u Cmdenv \
+  omnetpp.ini \
+  -c MecVanet \
+  "$@"

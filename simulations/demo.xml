@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <!-- Cellular UE/gNB air interface -->
+    <interface hosts="gnb*" names="cellular" address="10.x.x.x" netmask="255.0.0.0"/>
+    <interface hosts="car*" names="cellular" address="10.x.x.x" netmask="255.0.0.0"/>
+
+    <!-- X2 backhaul — isolated /30, only 2 hosts needed -->
+    <interface hosts="gnb1" names="x2ppp0" address="172.16.0.1" netmask="255.255.255.252"/>
+    <interface hosts="gnb2" names="x2ppp0" address="172.16.0.2" netmask="255.255.255.252"/>
+
+    <!-- Core network — each node gets its own block -->
+    <interface hosts="**" address="192.168.x.x" netmask="255.255.255.0"/>
+</config>

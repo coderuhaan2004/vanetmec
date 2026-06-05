@@ -1,0 +1,27 @@
+# Build outputs
+out/
+bin/
+
+# Object files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+docs/
+simulations/logs/
+
+# OMNeT++ simulation results
+simulations/results/
+
+# Generated dependencies
+*.d
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

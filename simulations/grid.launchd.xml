@@ -1,0 +1,11 @@
+<launch>
+    <copy file="grid.net.xml"/>
+    <copy file="grid.rou.xml"/>
+    <copy file="grid.sumocfg" type="config"/>
+    <launch exec="sumo" port="9999" seed="$seed">
+        <arg value="--configuration-file"/>
+        <arg value="grid.sumocfg"/>
+        <arg value="--remote-port"/>
+        <arg value="9999"/>
+    </launch>
+</launch>

@@ -1,0 +1,11 @@
+<routes>
+    <vType id="car" accel="2.6" decel="4.5" length="5" maxSpeed="14"/>
+
+    <!-- horizontal routes -->
+    <route id="r0" edges="A0B0 B0C0 C0D0"/>
+    <route id="r1" edges="A1B1 B1C1 C1D1"/>
+
+    <!-- vehicle flows -->
+    <flow id="flow0" type="car" route="r0" begin="0" end="90" period="5" />
+    <flow id="flow1" type="car" route="r1" begin="0" end="90" period="7" />
+</routes>

@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <net-file  value="grid.net.xml"/>
+        <route-files value="grid.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end   value="100"/>
+    </time>
+    <traci_server>
+        <remote-port value="9999"/>
+    </traci_server>
+</configuration>
