@@ -1,0 +1,725 @@
+Advertised Receiver Window 14
+Advertised Receiver Window 18
+Advertised Receiver Window 19
+Advertised Receiver Window 9
+Arwnd in Last SACK 75
+Arwnd in Last SACK 77
+Arwnd in Last SACK 78
+Arwnd in Last SACK 79
+Bandwidth 13:10.0.0.1
+Bandwidth 13:172.16.0.1
+Bandwidth 13:172.16.0.9
+Bandwidth 13:192.168.15.1
+Bandwidth 13:192.168.6.2
+Bandwidth 14:10.0.0.3
+Bandwidth 14:172.16.0.10
+Bandwidth 14:172.16.0.6
+Bandwidth 14:192.168.12.2
+Bandwidth 14:192.168.17.1
+Bandwidth 18:10.0.0.2
+Bandwidth 18:172.16.0.2
+Bandwidth 18:172.16.0.5
+Bandwidth 18:192.168.16.1
+Bandwidth 18:192.168.9.2
+Bandwidth 19:10.0.0.1
+Bandwidth 19:172.16.0.1
+Bandwidth 19:172.16.0.9
+Bandwidth 19:192.168.15.1
+Bandwidth 19:192.168.6.2
+Bandwidth 80:10.0.0.1
+Bandwidth 80:172.16.0.1
+Bandwidth 80:172.16.0.9
+Bandwidth 80:192.168.15.1
+Bandwidth 80:192.168.6.2
+Bandwidth 81:10.0.0.1
+Bandwidth 81:172.16.0.1
+Bandwidth 81:172.16.0.9
+Bandwidth 81:192.168.15.1
+Bandwidth 81:192.168.6.2
+Bandwidth 82:10.0.0.2
+Bandwidth 82:172.16.0.2
+Bandwidth 82:172.16.0.5
+Bandwidth 82:192.168.16.1
+Bandwidth 82:192.168.9.2
+Bandwidth 83:10.0.0.2
+Bandwidth 83:172.16.0.2
+Bandwidth 83:172.16.0.5
+Bandwidth 83:192.168.16.1
+Bandwidth 83:192.168.9.2
+Bandwidth 84:10.0.0.3
+Bandwidth 84:172.16.0.10
+Bandwidth 84:172.16.0.6
+Bandwidth 84:192.168.12.2
+Bandwidth 84:192.168.17.1
+Bandwidth 85:10.0.0.3
+Bandwidth 85:172.16.0.10
+Bandwidth 85:172.16.0.6
+Bandwidth 85:192.168.12.2
+Bandwidth 85:192.168.17.1
+Bandwidth 8:10.0.0.2
+Bandwidth 8:172.16.0.2
+Bandwidth 8:172.16.0.5
+Bandwidth 8:192.168.16.1
+Bandwidth 8:192.168.9.2
+Bandwidth 9:10.0.0.3
+Bandwidth 9:172.16.0.10
+Bandwidth 9:172.16.0.6
+Bandwidth 9:192.168.12.2
+Bandwidth 9:192.168.17.1
+Congestion Window 13:10.0.0.1
+Congestion Window 13:172.16.0.1
+Congestion Window 13:172.16.0.9
+Congestion Window 13:192.168.15.1
+Congestion Window 13:192.168.6.2
+Congestion Window 14:10.0.0.3
+Congestion Window 14:172.16.0.10
+Congestion Window 14:172.16.0.6
+Congestion Window 14:192.168.12.2
+Congestion Window 14:192.168.17.1
+Congestion Window 18:10.0.0.2
+Congestion Window 18:172.16.0.2
+Congestion Window 18:172.16.0.5
+Congestion Window 18:192.168.16.1
+Congestion Window 18:192.168.9.2
+Congestion Window 19:10.0.0.1
+Congestion Window 19:172.16.0.1
+Congestion Window 19:172.16.0.9
+Congestion Window 19:192.168.15.1
+Congestion Window 19:192.168.6.2
+Congestion Window 80:10.0.0.1
+Congestion Window 80:172.16.0.1
+Congestion Window 80:172.16.0.9
+Congestion Window 80:192.168.15.1
+Congestion Window 80:192.168.6.2
+Congestion Window 81:10.0.0.1
+Congestion Window 81:172.16.0.1
+Congestion Window 81:172.16.0.9
+Congestion Window 81:192.168.15.1
+Congestion Window 81:192.168.6.2
+Congestion Window 82:10.0.0.2
+Congestion Window 82:172.16.0.2
+Congestion Window 82:172.16.0.5
+Congestion Window 82:192.168.16.1
+Congestion Window 82:192.168.9.2
+Congestion Window 83:10.0.0.2
+Congestion Window 83:172.16.0.2
+Congestion Window 83:172.16.0.5
+Congestion Window 83:192.168.16.1
+Congestion Window 83:192.168.9.2
+Congestion Window 84:10.0.0.3
+Congestion Window 84:172.16.0.10
+Congestion Window 84:172.16.0.6
+Congestion Window 84:192.168.12.2
+Congestion Window 84:192.168.17.1
+Congestion Window 85:10.0.0.3
+Congestion Window 85:172.16.0.10
+Congestion Window 85:172.16.0.6
+Congestion Window 85:192.168.12.2
+Congestion Window 85:192.168.17.1
+Congestion Window 8:10.0.0.2
+Congestion Window 8:172.16.0.2
+Congestion Window 8:172.16.0.5
+Congestion Window 8:192.168.16.1
+Congestion Window 8:192.168.9.2
+Congestion Window 9:10.0.0.3
+Congestion Window 9:172.16.0.10
+Congestion Window 9:172.16.0.6
+Congestion Window 9:192.168.12.2
+Congestion Window 9:192.168.17.1
+End to End Delay of Association 14
+End to End Delay of Association 18
+End to End Delay of Association 19
+End to End Delay of Association 9
+Fast Recovery State 13:10.0.0.1
+Fast Recovery State 13:172.16.0.1
+Fast Recovery State 13:172.16.0.9
+Fast Recovery State 13:192.168.15.1
+Fast Recovery State 13:192.168.6.2
+Fast Recovery State 14:10.0.0.3
+Fast Recovery State 14:172.16.0.10
+Fast Recovery State 14:172.16.0.6
+Fast Recovery State 14:192.168.12.2
+Fast Recovery State 14:192.168.17.1
+Fast Recovery State 18:10.0.0.2
+Fast Recovery State 18:172.16.0.2
+Fast Recovery State 18:172.16.0.5
+Fast Recovery State 18:192.168.16.1
+Fast Recovery State 18:192.168.9.2
+Fast Recovery State 19:10.0.0.1
+Fast Recovery State 19:172.16.0.1
+Fast Recovery State 19:172.16.0.9
+Fast Recovery State 19:192.168.15.1
+Fast Recovery State 19:192.168.6.2
+Fast Recovery State 80:10.0.0.1
+Fast Recovery State 80:172.16.0.1
+Fast Recovery State 80:172.16.0.9
+Fast Recovery State 80:192.168.15.1
+Fast Recovery State 80:192.168.6.2
+Fast Recovery State 81:10.0.0.1
+Fast Recovery State 81:172.16.0.1
+Fast Recovery State 81:172.16.0.9
+Fast Recovery State 81:192.168.15.1
+Fast Recovery State 81:192.168.6.2
+Fast Recovery State 82:10.0.0.2
+Fast Recovery State 82:172.16.0.2
+Fast Recovery State 82:172.16.0.5
+Fast Recovery State 82:192.168.16.1
+Fast Recovery State 82:192.168.9.2
+Fast Recovery State 83:10.0.0.2
+Fast Recovery State 83:172.16.0.2
+Fast Recovery State 83:172.16.0.5
+Fast Recovery State 83:192.168.16.1
+Fast Recovery State 83:192.168.9.2
+Fast Recovery State 84:10.0.0.3
+Fast Recovery State 84:172.16.0.10
+Fast Recovery State 84:172.16.0.6
+Fast Recovery State 84:192.168.12.2
+Fast Recovery State 84:192.168.17.1
+Fast Recovery State 85:10.0.0.3
+Fast Recovery State 85:172.16.0.10
+Fast Recovery State 85:172.16.0.6
+Fast Recovery State 85:192.168.12.2
+Fast Recovery State 85:192.168.17.1
+Fast Recovery State 8:10.0.0.2
+Fast Recovery State 8:172.16.0.2
+Fast Recovery State 8:172.16.0.5
+Fast Recovery State 8:192.168.16.1
+Fast Recovery State 8:192.168.9.2
+Fast Recovery State 9:10.0.0.3
+Fast Recovery State 9:172.16.0.10
+Fast Recovery State 9:172.16.0.6
+Fast Recovery State 9:192.168.12.2
+Fast Recovery State 9:192.168.17.1
+HB ACK Received 13:172.16.0.1
+HB ACK Received 14:172.16.0.6
+HB ACK Received 18:172.16.0.5
+HB ACK Received 19:172.16.0.9
+HB ACK Received 80:172.16.0.1
+HB ACK Received 81:172.16.0.9
+HB ACK Received 82:172.16.0.2
+HB ACK Received 83:172.16.0.5
+HB ACK Received 84:172.16.0.6
+HB ACK Received 85:172.16.0.10
+HB ACK Received 8:172.16.0.2
+HB ACK Received 9:172.16.0.10
+HB ACK Sent 13:172.16.0.1
+HB ACK Sent 14:172.16.0.6
+HB ACK Sent 18:172.16.0.5
+HB ACK Sent 19:172.16.0.9
+HB ACK Sent 80:172.16.0.1
+HB ACK Sent 81:172.16.0.9
+HB ACK Sent 82:172.16.0.2
+HB ACK Sent 83:172.16.0.5
+HB ACK Sent 84:172.16.0.6
+HB ACK Sent 85:172.16.0.10
+HB ACK Sent 8:172.16.0.2
+HB ACK Sent 9:172.16.0.10
+HB Received 13:172.16.0.1
+HB Received 14:172.16.0.6
+HB Received 18:172.16.0.5
+HB Received 19:172.16.0.9
+HB Received 80:172.16.0.1
+HB Received 81:172.16.0.9
+HB Received 82:172.16.0.2
+HB Received 83:172.16.0.5
+HB Received 84:172.16.0.6
+HB Received 85:172.16.0.10
+HB Received 8:172.16.0.2
+HB Received 9:172.16.0.10
+HB Sent 13:10.0.0.1
+HB Sent 13:172.16.0.1
+HB Sent 13:172.16.0.9
+HB Sent 13:192.168.15.1
+HB Sent 13:192.168.6.2
+HB Sent 14:10.0.0.3
+HB Sent 14:172.16.0.10
+HB Sent 14:172.16.0.6
+HB Sent 14:192.168.12.2
+HB Sent 14:192.168.17.1
+HB Sent 18:10.0.0.2
+HB Sent 18:172.16.0.2
+HB Sent 18:172.16.0.5
+HB Sent 18:192.168.16.1
+HB Sent 18:192.168.9.2
+HB Sent 19:10.0.0.1
+HB Sent 19:172.16.0.1
+HB Sent 19:172.16.0.9
+HB Sent 19:192.168.15.1
+HB Sent 19:192.168.6.2
+HB Sent 80:10.0.0.1
+HB Sent 80:172.16.0.1
+HB Sent 80:172.16.0.9
+HB Sent 80:192.168.15.1
+HB Sent 80:192.168.6.2
+HB Sent 81:10.0.0.1
+HB Sent 81:172.16.0.1
+HB Sent 81:172.16.0.9
+HB Sent 81:192.168.15.1
+HB Sent 81:192.168.6.2
+HB Sent 82:10.0.0.2
+HB Sent 82:172.16.0.2
+HB Sent 82:172.16.0.5
+HB Sent 82:192.168.16.1
+HB Sent 82:192.168.9.2
+HB Sent 83:10.0.0.2
+HB Sent 83:172.16.0.2
+HB Sent 83:192.168.16.1
+HB Sent 83:192.168.9.2
+HB Sent 84:10.0.0.3
+HB Sent 84:172.16.0.10
+HB Sent 84:172.16.0.6
+HB Sent 84:192.168.12.2
+HB Sent 84:192.168.17.1
+HB Sent 85:10.0.0.3
+HB Sent 85:172.16.0.6
+HB Sent 85:192.168.12.2
+HB Sent 85:192.168.17.1
+HB Sent 8:10.0.0.2
+HB Sent 8:172.16.0.2
+HB Sent 8:172.16.0.5
+HB Sent 8:192.168.16.1
+HB Sent 8:192.168.9.2
+HB Sent 9:10.0.0.3
+HB Sent 9:172.16.0.10
+HB Sent 9:172.16.0.6
+HB Sent 9:192.168.12.2
+HB Sent 9:192.168.17.1
+Length of SACK Sent 14
+Length of SACK Sent 18
+Length of SACK Sent 19
+Length of SACK Sent 9
+Number of Duplicate TSNs Sent 14
+Number of Duplicate TSNs Sent 18
+Number of Duplicate TSNs Sent 19
+Number of Duplicate TSNs Sent 9
+Number of Duplicate TSNs Stored 14
+Number of Duplicate TSNs Stored 18
+Number of Duplicate TSNs Stored 19
+Number of Duplicate TSNs Stored 9
+Number of Gap Acked Chunks in Last SACK 81:10.0.0.1
+Number of Gap Acked Chunks in Last SACK 81:172.16.0.1
+Number of Gap Acked Chunks in Last SACK 81:172.16.0.9
+Number of Gap Acked Chunks in Last SACK 81:192.168.15.1
+Number of Gap Acked Chunks in Last SACK 81:192.168.6.2
+Number of Gap Acked Chunks in Last SACK 83:10.0.0.2
+Number of Gap Acked Chunks in Last SACK 83:172.16.0.2
+Number of Gap Acked Chunks in Last SACK 83:172.16.0.5
+Number of Gap Acked Chunks in Last SACK 83:192.168.16.1
+Number of Gap Acked Chunks in Last SACK 83:192.168.9.2
+Number of Gap Acked Chunks in Last SACK 84:10.0.0.3
+Number of Gap Acked Chunks in Last SACK 84:172.16.0.10
+Number of Gap Acked Chunks in Last SACK 84:172.16.0.6
+Number of Gap Acked Chunks in Last SACK 84:192.168.12.2
+Number of Gap Acked Chunks in Last SACK 84:192.168.17.1
+Number of Gap Acked Chunks in Last SACK 85:10.0.0.3
+Number of Gap Acked Chunks in Last SACK 85:172.16.0.10
+Number of Gap Acked Chunks in Last SACK 85:172.16.0.6
+Number of Gap Acked Chunks in Last SACK 85:192.168.12.2
+Number of Gap Acked Chunks in Last SACK 85:192.168.17.1
+Number of Gap Blocks in Last SACK of Association 81
+Number of Gap Blocks in Last SACK of Association 83
+Number of Gap Blocks in Last SACK of Association 84
+Number of Gap Blocks in Last SACK of Association 85
+Number of Gap Missed Chunks in Last SACK 81:10.0.0.1
+Number of Gap Missed Chunks in Last SACK 81:172.16.0.1
+Number of Gap Missed Chunks in Last SACK 81:172.16.0.9
+Number of Gap Missed Chunks in Last SACK 81:192.168.15.1
+Number of Gap Missed Chunks in Last SACK 81:192.168.6.2
+Number of Gap Missed Chunks in Last SACK 83:10.0.0.2
+Number of Gap Missed Chunks in Last SACK 83:172.16.0.2
+Number of Gap Missed Chunks in Last SACK 83:172.16.0.5
+Number of Gap Missed Chunks in Last SACK 83:192.168.16.1
+Number of Gap Missed Chunks in Last SACK 83:192.168.9.2
+Number of Gap Missed Chunks in Last SACK 84:10.0.0.3
+Number of Gap Missed Chunks in Last SACK 84:172.16.0.10
+Number of Gap Missed Chunks in Last SACK 84:172.16.0.6
+Number of Gap Missed Chunks in Last SACK 84:192.168.12.2
+Number of Gap Missed Chunks in Last SACK 84:192.168.17.1
+Number of Gap Missed Chunks in Last SACK 85:10.0.0.3
+Number of Gap Missed Chunks in Last SACK 85:172.16.0.10
+Number of Gap Missed Chunks in Last SACK 85:172.16.0.6
+Number of Gap Missed Chunks in Last SACK 85:192.168.12.2
+Number of Gap Missed Chunks in Last SACK 85:192.168.17.1
+Number of Non-Revokable Gap Acked Chunks in Last SACK 81:10.0.0.1
+Number of Non-Revokable Gap Acked Chunks in Last SACK 81:172.16.0.1
+Number of Non-Revokable Gap Acked Chunks in Last SACK 81:172.16.0.9
+Number of Non-Revokable Gap Acked Chunks in Last SACK 81:192.168.15.1
+Number of Non-Revokable Gap Acked Chunks in Last SACK 81:192.168.6.2
+Number of Non-Revokable Gap Acked Chunks in Last SACK 83:10.0.0.2
+Number of Non-Revokable Gap Acked Chunks in Last SACK 83:172.16.0.2
+Number of Non-Revokable Gap Acked Chunks in Last SACK 83:172.16.0.5
+Number of Non-Revokable Gap Acked Chunks in Last SACK 83:192.168.16.1
+Number of Non-Revokable Gap Acked Chunks in Last SACK 83:192.168.9.2
+Number of Non-Revokable Gap Acked Chunks in Last SACK 84:10.0.0.3
+Number of Non-Revokable Gap Acked Chunks in Last SACK 84:172.16.0.10
+Number of Non-Revokable Gap Acked Chunks in Last SACK 84:172.16.0.6
+Number of Non-Revokable Gap Acked Chunks in Last SACK 84:192.168.12.2
+Number of Non-Revokable Gap Acked Chunks in Last SACK 84:192.168.17.1
+Number of Non-Revokable Gap Acked Chunks in Last SACK 85:10.0.0.3
+Number of Non-Revokable Gap Acked Chunks in Last SACK 85:172.16.0.10
+Number of Non-Revokable Gap Acked Chunks in Last SACK 85:172.16.0.6
+Number of Non-Revokable Gap Acked Chunks in Last SACK 85:192.168.12.2
+Number of Non-Revokable Gap Acked Chunks in Last SACK 85:192.168.17.1
+Number of Non-Revokable Gap Blocks Sent 14
+Number of Non-Revokable Gap Blocks Sent 18
+Number of Non-Revokable Gap Blocks Sent 19
+Number of Non-Revokable Gap Blocks Sent 9
+Number of Non-Revokable Gap Blocks Stored 14
+Number of Non-Revokable Gap Blocks Stored 18
+Number of Non-Revokable Gap Blocks Stored 19
+Number of Non-Revokable Gap Blocks Stored 9
+Number of Non-Revokable Gap Blocks in SACK 75
+Number of Non-Revokable Gap Blocks in SACK 77
+Number of Non-Revokable Gap Blocks in SACK 78
+Number of Non-Revokable Gap Blocks in SACK 79
+Number of Revokable Gap Blocks Sent 14
+Number of Revokable Gap Blocks Sent 18
+Number of Revokable Gap Blocks Sent 19
+Number of Revokable Gap Blocks Sent 9
+Number of Revokable Gap Blocks Stored 14
+Number of Revokable Gap Blocks Stored 18
+Number of Revokable Gap Blocks Stored 19
+Number of Revokable Gap Blocks Stored 9
+Number of Revokable Gap Blocks in SACK 75
+Number of Revokable Gap Blocks in SACK 77
+Number of Revokable Gap Blocks in SACK 78
+Number of Revokable Gap Blocks in SACK 79
+Number of Total Gap Blocks Stored 14
+Number of Total Gap Blocks Stored 18
+Number of Total Gap Blocks Stored 19
+Number of Total Gap Blocks Stored 9
+Outstanding Bytes 75:Total
+Outstanding Bytes 77:Total
+Outstanding Bytes 78:Total
+Outstanding Bytes 79:Total
+Outstanding Bytes 81:172.16.0.9
+Outstanding Bytes 83:172.16.0.5
+Outstanding Bytes 84:172.16.0.6
+Outstanding Bytes 85:172.16.0.10
+Partial Bytes Acked 81:172.16.0.9
+Partial Bytes Acked 83:172.16.0.5
+Partial Bytes Acked 84:172.16.0.6
+Partial Bytes Acked 85:172.16.0.10
+Peer Rwnd 13
+Peer Rwnd 14
+Peer Rwnd 18
+Peer Rwnd 19
+Peer Rwnd 74
+Peer Rwnd 75
+Peer Rwnd 76
+Peer Rwnd 77
+Peer Rwnd 78
+Peer Rwnd 79
+Peer Rwnd 8
+Peer Rwnd 9
+Queued Received Bytes 14:Total
+Queued Received Bytes 18:Total
+Queued Received Bytes 19:Total
+Queued Received Bytes 9:Total
+Queued Sent Bytes 75:Total
+Queued Sent Bytes 77:Total
+Queued Sent Bytes 78:Total
+Queued Sent Bytes 79:Total
+Queued Sent Bytes 81:172.16.0.9
+Queued Sent Bytes 83:172.16.0.5
+Queued Sent Bytes 84:172.16.0.6
+Queued Sent Bytes 85:172.16.0.10
+RTO 13:10.0.0.1
+RTO 13:172.16.0.1
+RTO 13:172.16.0.9
+RTO 13:192.168.15.1
+RTO 13:192.168.6.2
+RTO 14:10.0.0.3
+RTO 14:172.16.0.10
+RTO 14:172.16.0.6
+RTO 14:192.168.12.2
+RTO 14:192.168.17.1
+RTO 18:10.0.0.2
+RTO 18:172.16.0.2
+RTO 18:172.16.0.5
+RTO 18:192.168.16.1
+RTO 18:192.168.9.2
+RTO 19:10.0.0.1
+RTO 19:172.16.0.1
+RTO 19:172.16.0.9
+RTO 19:192.168.15.1
+RTO 19:192.168.6.2
+RTO 80:10.0.0.1
+RTO 80:172.16.0.1
+RTO 80:172.16.0.9
+RTO 80:192.168.15.1
+RTO 80:192.168.6.2
+RTO 81:10.0.0.1
+RTO 81:172.16.0.1
+RTO 81:172.16.0.9
+RTO 81:192.168.15.1
+RTO 81:192.168.6.2
+RTO 82:10.0.0.2
+RTO 82:172.16.0.2
+RTO 82:172.16.0.5
+RTO 82:192.168.16.1
+RTO 82:192.168.9.2
+RTO 83:10.0.0.2
+RTO 83:172.16.0.2
+RTO 83:172.16.0.5
+RTO 83:192.168.16.1
+RTO 83:192.168.9.2
+RTO 84:10.0.0.3
+RTO 84:172.16.0.10
+RTO 84:172.16.0.6
+RTO 84:192.168.12.2
+RTO 84:192.168.17.1
+RTO 85:10.0.0.3
+RTO 85:172.16.0.10
+RTO 85:172.16.0.6
+RTO 85:192.168.12.2
+RTO 85:192.168.17.1
+RTO 8:10.0.0.2
+RTO 8:172.16.0.2
+RTO 8:172.16.0.5
+RTO 8:192.168.16.1
+RTO 8:192.168.9.2
+RTO 9:10.0.0.3
+RTO 9:172.16.0.10
+RTO 9:172.16.0.6
+RTO 9:192.168.12.2
+RTO 9:192.168.17.1
+RTT 13:172.16.0.1
+RTT 14:172.16.0.6
+RTT 18:172.16.0.5
+RTT 19:172.16.0.9
+RTT 80:172.16.0.1
+RTT 81:172.16.0.9
+RTT 82:172.16.0.2
+RTT 83:172.16.0.5
+RTT 84:172.16.0.6
+RTT 85:172.16.0.10
+RTT 8:172.16.0.2
+RTT 9:172.16.0.10
+SendQueue of Association 81
+SendQueue of Association 83
+SendQueue of Association 84
+SendQueue of Association 85
+Slow Start Threshold 13:10.0.0.1
+Slow Start Threshold 13:172.16.0.1
+Slow Start Threshold 13:172.16.0.9
+Slow Start Threshold 13:192.168.15.1
+Slow Start Threshold 13:192.168.6.2
+Slow Start Threshold 14:10.0.0.3
+Slow Start Threshold 14:172.16.0.10
+Slow Start Threshold 14:172.16.0.6
+Slow Start Threshold 14:192.168.12.2
+Slow Start Threshold 14:192.168.17.1
+Slow Start Threshold 18:10.0.0.2
+Slow Start Threshold 18:172.16.0.2
+Slow Start Threshold 18:172.16.0.5
+Slow Start Threshold 18:192.168.16.1
+Slow Start Threshold 18:192.168.9.2
+Slow Start Threshold 19:10.0.0.1
+Slow Start Threshold 19:172.16.0.1
+Slow Start Threshold 19:172.16.0.9
+Slow Start Threshold 19:192.168.15.1
+Slow Start Threshold 19:192.168.6.2
+Slow Start Threshold 80:10.0.0.1
+Slow Start Threshold 80:172.16.0.1
+Slow Start Threshold 80:172.16.0.9
+Slow Start Threshold 80:192.168.15.1
+Slow Start Threshold 80:192.168.6.2
+Slow Start Threshold 81:10.0.0.1
+Slow Start Threshold 81:172.16.0.1
+Slow Start Threshold 81:172.16.0.9
+Slow Start Threshold 81:192.168.15.1
+Slow Start Threshold 81:192.168.6.2
+Slow Start Threshold 82:10.0.0.2
+Slow Start Threshold 82:172.16.0.2
+Slow Start Threshold 82:172.16.0.5
+Slow Start Threshold 82:192.168.16.1
+Slow Start Threshold 82:192.168.9.2
+Slow Start Threshold 83:10.0.0.2
+Slow Start Threshold 83:172.16.0.2
+Slow Start Threshold 83:172.16.0.5
+Slow Start Threshold 83:192.168.16.1
+Slow Start Threshold 83:192.168.9.2
+Slow Start Threshold 84:10.0.0.3
+Slow Start Threshold 84:172.16.0.10
+Slow Start Threshold 84:172.16.0.6
+Slow Start Threshold 84:192.168.12.2
+Slow Start Threshold 84:192.168.17.1
+Slow Start Threshold 85:10.0.0.3
+Slow Start Threshold 85:172.16.0.10
+Slow Start Threshold 85:172.16.0.6
+Slow Start Threshold 85:192.168.12.2
+Slow Start Threshold 85:192.168.17.1
+Slow Start Threshold 8:10.0.0.2
+Slow Start Threshold 8:172.16.0.2
+Slow Start Threshold 8:172.16.0.5
+Slow Start Threshold 8:192.168.16.1
+Slow Start Threshold 8:192.168.9.2
+Slow Start Threshold 9:10.0.0.3
+Slow Start Threshold 9:172.16.0.10
+Slow Start Threshold 9:172.16.0.6
+Slow Start Threshold 9:192.168.12.2
+Slow Start Threshold 9:192.168.17.1
+Stream 0 Throughput
+TSN Acked CumAck 81:172.16.0.9
+TSN Acked CumAck 83:172.16.0.5
+TSN Acked CumAck 84:172.16.0.6
+TSN Acked CumAck 85:172.16.0.10
+TSN PseudoCumAck 81:172.16.0.9
+TSN PseudoCumAck 83:172.16.0.5
+TSN PseudoCumAck 84:172.16.0.6
+TSN PseudoCumAck 85:172.16.0.10
+TSN RTXPseudoCumAck 81:172.16.0.9
+TSN RTXPseudoCumAck 83:172.16.0.5
+TSN RTXPseudoCumAck 84:172.16.0.6
+TSN RTXPseudoCumAck 85:172.16.0.10
+TSN Received 14:172.16.0.6
+TSN Received 18:172.16.0.5
+TSN Received 19:172.16.0.9
+TSN Received 9:172.16.0.10
+TSN Sent 81:172.16.0.9
+TSN Sent 83:172.16.0.5
+TSN Sent 84:172.16.0.6
+TSN Sent 85:172.16.0.10
+Throughput of Association 13
+Throughput of Association 14
+Throughput of Association 18
+Throughput of Association 19
+Throughput of Association 74
+Throughput of Association 75
+Throughput of Association 76
+Throughput of Association 77
+Throughput of Association 78
+Throughput of Association 79
+Throughput of Association 8
+Throughput of Association 9
+arpReplySent:vector(packetBytes)
+arpRequestSent:vector(packetBytes)
+averageCqiD2D:vector
+averageCqiDl:vector
+averageCqiUl:vector
+avgServedBlocksDl:vector
+avgServedBlocksUl:vector
+calcLoad:vector
+cwnd:vector
+decapPk:vector(packetBytes)
+distance:vector
+downLinkTime:vector
+droppedPacketLengthsQueueOverflow:vector
+droppedPkBadChecksum:vector(count)
+droppedPkWrongPort:vector(count)
+dupAcks:vector
+echoedPk:vector(packetBytes)
+encapPk:vector(packetBytes)
+flowIncomingDataRate:vector
+flowOutgoingDataRate:vector
+flowQueueingTime:vector
+harqErrorRateD2D:vector
+harqErrorRateDl:vector
+harqErrorRateUl:vector
+harqErrorRate_1st_D2D:vector
+harqErrorRate_1st_Dl:vector
+harqErrorRate_1st_Ul:vector
+harqErrorRate_2nd_D2D:vector
+harqErrorRate_2nd_Dl:vector
+harqErrorRate_2nd_Ul:vector
+harqErrorRate_3rd_D2D:vector
+harqErrorRate_3rd_Dl:vector
+harqErrorRate_3rd_Ul:vector
+harqErrorRate_4th_D2D:vector
+harqErrorRate_4th_Dl:vector
+harqErrorRate_4th_Ul:vector
+harqTxAttemptsDl:vector
+harqTxAttemptsUl:vector
+incomingDataRate:vector
+incomingPacketLengths:vector
+load:vector
+macDelayD2D:vector
+macDelayDl:vector
+macDelayUl:vector
+markingProb:vector
+measuredItbs:vector
+measuredSinrDl:vector
+measuredSinrUl:vector
+numRtos:vector
+outgoingDataRate:vector
+outgoingPacketLengths:vector
+packetDropAddressResolutionFailed:vector(packetBytes)
+packetDropForwardingDisabled:vector(packetBytes)
+packetDropHopLimitReached:vector(packetBytes)
+packetDropIncorrectlyReceived:vector(packetBytes)
+packetDropInterfaceDown:vector(packetBytes)
+packetDropNoCarrier:vector(packetBytes)
+packetDropNoInterfaceFound:vector(packetBytes)
+packetDropNoRouteFound:vector(packetBytes)
+packetDropUndefined:vector(packetBytes)
+packetReceived:vector(packetBytes)
+packetSent:vector(packetBytes)
+passedUpPk:vector(count)
+passedUpPk:vector(packetBytes)
+pauseSent:vector
+pipe:vector
+processingTime:vector
+queueBitLength:vector
+queueLength:vector
+queueingTime:vector
+rcvAck:vector
+rcvAdv:vector
+rcvNASeg:vector
+rcvOooSeg:vector
+rcvSacks:vector
+rcvSeq:vector
+rcvWnd:vector
+rcvdD2DModeSwitchNotification:vector
+rcvdPkFromHl:vector(packetBytes)
+rcvdSinrDl:vector
+rcvdSinrUl:vector
+receivedPacketFromLowerLayer:vector(packetBytes)
+receivedPacketFromUpperLayer:vector(packetBytes)
+requestQueueSizeStat:vector
+responseTime:vector
+responseTimeStat:vector
+rlcCellPacketLossD2D:vector
+rlcCellThroughputD2D:vector
+rlcDelayD2D:vector
+rlcDelayDl:vector
+rlcDelayUl:vector
+rlcPacketLossD2D:vector
+rlcPacketLossDl:vector
+rlcPacketLossTotal:vector
+rlcPacketLossUl:vector
+rlcPduDelayD2D:vector
+rlcPduDelayDl:vector
+rlcPduDelayUl:vector
+rlcPduPacketLossD2D:vector
+rlcPduPacketLossDl:vector
+rlcPduPacketLossUl:vector
+rlcPduThroughputD2D:vector
+rlcPduThroughputDl:vector
+rlcPduThroughputUl:vector
+rlcThroughputD2D:vector
+rlcThroughputDl:vector
+rlcThroughputUl:vector
+rto:vector
+rtt:vector
+rttvar:vector
+rxPkOk:vector(packetBytes)
+sackedBytes:vector
+sentPacketToLowerLayer:vector(packetBytes)
+sentPacketToUpperLayer:vector(packetBytes)
+serviceResponseTime:vector
+servingCell:vector
+sndAck:vector
+sndNxt:vector
+sndSacks:vector
+sndWnd:vector
+srtt:vector
+ssthresh:vector
+state:vector
+tcpRcvPayloadBytes:vector
+tcpRcvQueueBytes:vector
+tcpRcvQueueDrops:vector
+transmissionState:vector
+txPk:vector(packetBytes)
+unacked:vector
+upLinkTime:vector

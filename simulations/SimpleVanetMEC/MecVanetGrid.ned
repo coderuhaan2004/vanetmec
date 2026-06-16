@@ -1,4 +1,4 @@
-package vanetmec.simulations;
+package vanetmec.simulations.SimpleVanetMEC;
 
 // ── INET ──────────────────────────────────────────────────────
 import inet.networklayer.configurator.ipv4.Ipv4NetworkConfigurator;

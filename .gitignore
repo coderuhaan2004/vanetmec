@@ -10,10 +10,14 @@ bin/
 *.dll
 
 docs/
-simulations/logs/
+simulations/SimpleVanetMEC/logs/
+simulations/TaskOffloadVanet/logs/
 
 # OMNeT++ simulation results
-simulations/results/
+simulations/SimpleVanetMEC/results/
+simulations/TaskOffloadVanet/results/
+
+simulations/TaskOffloadVanet/dataset/
 
 # Generated dependencies
 *.d

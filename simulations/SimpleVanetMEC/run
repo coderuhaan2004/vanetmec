@@ -3,10 +3,10 @@
 cd "$(dirname "$0")"   # always run from simulations/
 
 # ── Edit these paths to match your installation ───────────────
-INET_ROOT=../../../inet4.5
-SIMU5G_ROOT=../../../Simu5G-1.2.2
-VEINS_ROOT=../../../veins-veins-5.3.1
-VEINS_INET_ROOT=../../../veins-veins-5.3.1/subprojects/veins_inet
+INET_ROOT=../../../../inet4.5
+SIMU5G_ROOT=../../../../Simu5G-1.2.2
+VEINS_ROOT=../../../../veins-veins-5.3.1
+VEINS_INET_ROOT=../../../../veins-veins-5.3.1/subprojects/veins_inet
 
 # ── Binary ───────────────────────────────────────────────────
 # If you have a compiled src/, use:       ../src/myMecVanet

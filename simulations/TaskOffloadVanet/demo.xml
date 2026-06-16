@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <!-- Cellular UE/gNB air interface -->
+    <interface hosts="gnb*" names="cellular" address="10.x.x.x" netmask="255.0.0.0"/>
+    <interface hosts="car*" names="cellular" address="10.x.x.x" netmask="255.0.0.0"/>
+
+    <!-- X2 backhaul — one isolated /30 per link, derived from connection order above
+         gnb1.x2ppp0 <-> gnb2.x2ppp0  :  172.16.0.0/30
+         gnb2.x2ppp1 <-> gnb3.x2ppp0  :  172.16.0.4/30
+         gnb1.x2ppp1 <-> gnb3.x2ppp1  :  172.16.0.8/30  -->
+    <interface hosts="gnb1" names="x2ppp0" address="172.16.0.1"  netmask="255.255.255.252"/>
+    <interface hosts="gnb2" names="x2ppp0" address="172.16.0.2"  netmask="255.255.255.252"/>
+
+    <interface hosts="gnb2" names="x2ppp1" address="172.16.0.5"  netmask="255.255.255.252"/>
+    <interface hosts="gnb3" names="x2ppp0" address="172.16.0.6"  netmask="255.255.255.252"/>
+
+    <interface hosts="gnb1" names="x2ppp1" address="172.16.0.9"  netmask="255.255.255.252"/>
+    <interface hosts="gnb3" names="x2ppp1" address="172.16.0.10" netmask="255.255.255.252"/>
+
+    <!-- Everything else (router, upf, iUpf*, ualcmp, mecHost*, server) -->
+    <interface hosts="**" address="192.168.x.x" netmask="255.255.255.0"/>
+</config>
