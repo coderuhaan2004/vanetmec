@@ -31,6 +31,6 @@ LIBS="\
 $BINARY \
   -n "$NED_PATH" \
   $LIBS \
-  -u Cmdenv \
+  -u Qtenv \
   omnetpp.ini \
   "$@"
